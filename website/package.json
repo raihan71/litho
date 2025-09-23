@@ -11,7 +11,7 @@
     "prettier:diff": "prettier --config .prettierrc --list-different \"**/*.{js,md}\""
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.58",
+    "@docusaurus/core": "^2.0.1",
     "@docusaurus/preset-classic": "^2.0.0-alpha.58",
     "clsx": "^1.1.1",
     "docusaurus-plugin-sass": "^0.1.9",
